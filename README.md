@@ -14,12 +14,18 @@ py -m pip install -r requirements.txt
 ```
 ## Como usar
 
-Faça o clone deste repositório para o seu computador usando git clone ou baixe o código como um arquivo ZIP.
+1. Faça o clone deste repositório para o seu computador usando git clone ou baixe o código como um arquivo ZIP.
 
-Navegue até o diretório do projeto.
+2. Navegue até o diretório do projeto.
 
-Execute o script Python cadastro.py para iniciar o programa.
+3. Execute o script Python cadastro.py para iniciar o programa.
 
-Siga as instruções apresentadas pelo programa para cadastrar novos itens.
+4. Siga as instruções apresentadas pelo programa para cadastrar novos itens.
 
-Os dados serão armazenados no arquivo estabelecimento.xlsx, que será criado automaticamente na primeira execução.
+5. Os dados serão armazenados no arquivo estabelecimento.xlsx, que será criado automaticamente na primeira execução.
+
+## Funcionalidades
+
+- Cadastre itens informando o nome, preço e quantidade disponível.
+- Os dados são armazenados em uma planilha Excel (.xlsx).
+- A primeira linha da planilha é formatada em negrito para facilitar a leitura dos títulos.
