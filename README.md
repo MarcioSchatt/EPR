@@ -5,7 +5,9 @@ Este é um projeto simples em Python que permite cadastrar itens para estabeleci
 
 ## Pré-requisitos
 
-Antes de executar o projeto, certifique-se de ter o Python instalado em seu sistema. Você também precisa instalar a biblioteca `openpyxl` para trabalhar com arquivos Excel. Você pode instalá-la com o seguinte comando:
+Antes de executar o projeto, certifique-se de ter o Python instalado em seu sistema.
+
+Você também precisa instalar a biblioteca `openpyxl` para trabalhar com arquivos Excel. Você pode instalá-la com o seguinte comando:
 
 ```bash
 pip install openpyxl
